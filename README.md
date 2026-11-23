@@ -1,3 +1,4 @@
+
 # EC1801-DLC-EXP1
 ### EXPERIMENT 1 
 ### MINIMIZATION AND IMPLEMENTATION OF BOOLEAN FUNCTION
@@ -85,7 +86,7 @@ and successfully implemented using Verilog HDL.
 
 ## OUTPUT
 
-
+<img width="775" height="375" alt="Screenshot 2026-11-21 202437" src="https://github.com/user-attachments/assets/80c52a8f-993b-45eb-833d-fcb80518f8a1" />
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
 7. Viva-Voce Questions
